@@ -299,6 +299,22 @@ if page == "Student Matching":
         ax.legend()
         st.pyplot(fig)
 
+        st.subheader("💬 Group Chat (Prototype)")
+
+if "chat" not in st.session_state:
+    st.session_state.chat = []
+
+msg = st.text_input("Type a message")
+
+if st.button("Send"):
+    if msg:
+        st.session_state.chat.append(("You", msg))
+
+for sender, message in st.session_state.chat:
+    st.markdown(f"**{sender}:** {message}")
+
+
+
 # ==================================================
 # VISUAL INSIGHTS (UNCHANGED)
 # ==================================================
