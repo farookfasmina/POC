@@ -1,0 +1,501 @@
+Year_of_Study,Academic_Program,Subjects,Available_Days,Time_Slots,Communication_Methods,Competency,Satisfaction,Cluster
+1st Year,IT,"Databases, Networking, Research","Sunday, Monday",Night,WhatsApp,2,3,2
+2nd Year,Engineering,"AI, Research, Networking","Sunday, Saturday, Thursday, Monday","Evening, Morning",Telegram,4,4,0
+2nd Year,SE,"AI, Algorithms","Monday, Wednesday, Saturday","Morning, Evening","Face-to-face, WhatsApp",5,2,0
+3rd Year,Engineering,"Research, Networking","Monday, Sunday, Tuesday, Thursday",Afternoon,Telegram,4,5,1
+3rd Year,SE,"Databases, Networking","Wednesday, Monday, Tuesday, Sunday",Afternoon,"Telegram, Teams",3,4,1
+1st Year,SE,Databases,"Wednesday, Monday, Tuesday","Afternoon, Evening","Telegram, Face-to-face",3,4,2
+2nd Year,SE,"Research, Algorithms, Databases","Saturday, Thursday, Sunday, Tuesday",Afternoon,"WhatsApp, Face-to-face",2,3,0
+2nd Year,Business,"AI, Software Quality, Research","Thursday, Saturday, Wednesday, Sunday",Morning,"Teams, WhatsApp",4,5,0
+2nd Year,Business,Algorithms,"Wednesday, Saturday, Tuesday, Sunday",Evening,Zoom,4,3,0
+1st Year,Engineering,"Software Quality, AI","Wednesday, Sunday",Morning,Face-to-face,2,2,2
+4th Year or above,IT,"Networking, Algorithms, Software Quality","Tuesday, Wednesday, Thursday, Monday",Evening,"Teams, Telegram",5,2,1
+2nd Year,SE,Databases,"Saturday, Sunday",Afternoon,WhatsApp,2,3,0
+1st Year,IT,"AI, Research","Wednesday, Thursday",Afternoon,"Zoom, Telegram",5,3,2
+1st Year,IT,"Software Quality, Databases, Algorithms","Thursday, Monday, Saturday",Night,"WhatsApp, Zoom",3,3,2
+4th Year or above,SE,"Networking, Databases","Tuesday, Monday, Thursday",Morning,WhatsApp,3,3,1
+4th Year or above,Business,"Networking, Software Quality","Tuesday, Thursday",Night,"Telegram, Teams",5,5,1
+2nd Year,SE,"Networking, AI","Sunday, Saturday, Monday, Wednesday","Morning, Night","Face-to-face, Zoom",2,2,0
+2nd Year,IT,"AI, Networking, Software Quality","Saturday, Tuesday",Morning,"Face-to-face, Teams",4,3,0
+3rd Year,SE,"Software Quality, Networking","Sunday, Wednesday, Thursday, Tuesday",Morning,"Face-to-face, WhatsApp",2,3,1
+3rd Year,SE,"AI, Networking","Wednesday, Tuesday, Thursday","Morning, Evening","WhatsApp, Zoom",4,2,1
+1st Year,Engineering,Databases,"Saturday, Tuesday, Wednesday",Evening,"Teams, WhatsApp",2,5,2
+3rd Year,IT,Databases,"Sunday, Wednesday",Night,"Face-to-face, WhatsApp",2,2,1
+2nd Year,Engineering,Databases,"Saturday, Tuesday, Thursday, Monday",Evening,"WhatsApp, Teams",3,3,0
+1st Year,CS,"Software Quality, Research, Networking","Tuesday, Sunday","Morning, Night","Telegram, Zoom",4,3,2
+1st Year,Business,Software Quality,"Tuesday, Thursday","Evening, Morning",WhatsApp,3,5,2
+3rd Year,CS,Databases,"Sunday, Saturday, Thursday","Morning, Night","Zoom, Teams",2,2,1
+4th Year or above,CS,"Databases, Software Quality, AI","Saturday, Tuesday, Wednesday",Night,Face-to-face,3,4,1
+4th Year or above,IT,"Databases, Research, Algorithms","Monday, Wednesday, Saturday, Thursday","Evening, Afternoon","Face-to-face, Zoom",3,5,1
+4th Year or above,SE,"Research, Databases, Software Quality","Monday, Wednesday, Saturday, Sunday","Evening, Afternoon","Telegram, Zoom",5,3,1
+1st Year,CS,"Algorithms, Research, Databases","Tuesday, Wednesday",Afternoon,WhatsApp,2,3,2
+4th Year or above,Engineering,Software Quality,"Sunday, Saturday, Tuesday","Night, Afternoon",Zoom,2,2,1
+4th Year or above,SE,Algorithms,"Thursday, Monday, Tuesday, Saturday","Afternoon, Night","Telegram, Face-to-face",5,3,1
+4th Year or above,Business,"Networking, Databases","Thursday, Tuesday, Wednesday, Saturday",Evening,Teams,4,4,1
+1st Year,SE,Networking,"Sunday, Tuesday, Saturday",Night,"Teams, Telegram",5,2,2
+2nd Year,Business,"Research, AI","Thursday, Sunday, Monday, Tuesday","Night, Afternoon",Telegram,3,4,0
+4th Year or above,Business,Software Quality,"Sunday, Thursday, Tuesday","Afternoon, Evening",Telegram,2,2,1
+4th Year or above,SE,"Networking, AI","Thursday, Wednesday, Tuesday","Evening, Afternoon","Teams, Telegram",4,2,1
+4th Year or above,IT,"Research, AI, Databases","Sunday, Monday",Morning,Zoom,2,3,1
+2nd Year,SE,"Algorithms, AI","Tuesday, Thursday, Wednesday, Sunday",Morning,Teams,2,2,0
+3rd Year,Engineering,"Software Quality, Algorithms, Networking","Saturday, Tuesday",Evening,Face-to-face,2,4,1
+4th Year or above,CS,Research,"Wednesday, Monday, Thursday, Tuesday",Night,"Telegram, Zoom",5,3,1
+3rd Year,Engineering,"Software Quality, Algorithms, Research","Saturday, Wednesday, Sunday, Monday",Evening,"Zoom, Telegram",5,4,1
+1st Year,Business,"Networking, Software Quality","Wednesday, Sunday","Evening, Night","Face-to-face, WhatsApp",3,2,2
+2nd Year,Business,"Research, Networking","Thursday, Sunday, Saturday, Monday",Evening,Telegram,3,4,0
+3rd Year,Business,"Research, Databases, Software Quality","Saturday, Wednesday, Sunday, Thursday","Evening, Afternoon","Zoom, WhatsApp",3,4,1
+1st Year,Engineering,"Networking, Algorithms, Research","Thursday, Wednesday, Saturday, Monday",Evening,Teams,3,4,2
+1st Year,Engineering,Databases,"Monday, Saturday","Afternoon, Evening","WhatsApp, Face-to-face",4,5,2
+4th Year or above,Business,"Networking, AI","Thursday, Monday, Saturday","Night, Morning",Zoom,3,4,1
+1st Year,SE,Research,"Saturday, Sunday, Tuesday","Night, Afternoon","Face-to-face, Telegram",4,2,2
+1st Year,SE,"Networking, Databases, AI","Tuesday, Sunday",Afternoon,Telegram,5,5,2
+3rd Year,IT,Databases,"Wednesday, Thursday, Monday, Sunday",Evening,Telegram,2,3,1
+2nd Year,CS,AI,"Tuesday, Wednesday","Night, Morning","Teams, Telegram",4,5,0
+4th Year or above,IT,"AI, Software Quality, Databases","Wednesday, Monday, Saturday, Thursday",Evening,Zoom,5,5,1
+3rd Year,SE,"Software Quality, Algorithms, AI","Wednesday, Thursday, Sunday","Morning, Night","Telegram, Face-to-face",4,5,1
+1st Year,Business,Databases,"Wednesday, Monday, Thursday",Night,"WhatsApp, Zoom",4,5,2
+4th Year or above,IT,Databases,"Tuesday, Wednesday, Thursday, Saturday","Morning, Night",Zoom,4,2,1
+4th Year or above,IT,AI,"Monday, Tuesday, Thursday","Evening, Afternoon","Telegram, Zoom",5,3,1
+4th Year or above,SE,"Research, Networking, AI","Thursday, Wednesday, Saturday",Evening,"Face-to-face, Telegram",3,5,1
+4th Year or above,CS,"Research, Algorithms","Thursday, Wednesday, Tuesday",Night,Telegram,2,4,1
+4th Year or above,Business,"Algorithms, Networking","Monday, Tuesday, Wednesday",Night,Face-to-face,5,2,1
+2nd Year,Business,"Networking, AI, Software Quality","Wednesday, Saturday, Thursday",Evening,"Teams, Telegram",2,2,0
+2nd Year,CS,Algorithms,"Thursday, Monday",Night,Teams,2,2,0
+3rd Year,IT,"Databases, Algorithms","Tuesday, Sunday, Thursday",Afternoon,WhatsApp,5,3,1
+4th Year or above,Engineering,Networking,"Sunday, Wednesday, Thursday","Morning, Afternoon","Face-to-face, Zoom",2,5,1
+3rd Year,Engineering,"Algorithms, Software Quality","Wednesday, Thursday, Sunday, Monday","Night, Morning",Telegram,4,4,1
+3rd Year,IT,"Software Quality, Databases, AI","Sunday, Monday, Thursday, Tuesday",Evening,Zoom,4,3,1
+1st Year,IT,"Software Quality, AI","Wednesday, Tuesday, Monday, Saturday","Night, Morning",Zoom,4,4,2
+2nd Year,CS,"Databases, Algorithms","Thursday, Monday",Afternoon,"Face-to-face, Teams",2,5,0
+1st Year,CS,"AI, Software Quality, Databases","Sunday, Wednesday, Thursday, Saturday","Morning, Evening",Telegram,2,4,2
+2nd Year,IT,"Software Quality, Databases, Algorithms","Tuesday, Monday",Evening,"WhatsApp, Face-to-face",3,3,0
+4th Year or above,Business,"Algorithms, Research","Saturday, Tuesday, Thursday",Night,"Teams, WhatsApp",4,3,1
+4th Year or above,Business,Databases,"Sunday, Wednesday","Morning, Afternoon","Zoom, WhatsApp",5,2,1
+2nd Year,Engineering,AI,"Tuesday, Sunday, Saturday",Afternoon,Zoom,4,3,0
+1st Year,CS,Networking,"Wednesday, Tuesday, Monday, Sunday",Afternoon,Teams,3,4,2
+1st Year,SE,"AI, Networking","Thursday, Saturday, Monday, Wednesday",Night,"Teams, WhatsApp",5,3,2
+1st Year,Engineering,"Software Quality, AI","Thursday, Sunday","Morning, Afternoon","WhatsApp, Face-to-face",4,3,2
+1st Year,SE,"Research, Algorithms","Sunday, Wednesday, Thursday, Saturday","Night, Evening","WhatsApp, Face-to-face",3,5,2
+4th Year or above,SE,"Databases, Software Quality","Thursday, Monday, Wednesday","Evening, Night","Teams, Zoom",5,2,1
+1st Year,IT,Software Quality,"Sunday, Wednesday",Morning,"WhatsApp, Telegram",4,5,2
+1st Year,CS,"Databases, Algorithms, AI","Saturday, Tuesday, Sunday, Wednesday","Afternoon, Morning","Face-to-face, Teams",2,4,2
+2nd Year,Business,"Research, Algorithms, AI","Sunday, Wednesday, Monday, Thursday","Evening, Afternoon","WhatsApp, Zoom",3,5,0
+1st Year,SE,"Algorithms, AI, Research","Saturday, Tuesday, Thursday, Sunday","Evening, Morning","Teams, Face-to-face",2,2,2
+2nd Year,SE,"AI, Algorithms, Databases","Sunday, Thursday, Saturday","Night, Afternoon",Face-to-face,2,4,0
+4th Year or above,IT,"Algorithms, Research","Saturday, Wednesday, Monday",Night,WhatsApp,3,4,1
+2nd Year,SE,"Databases, Algorithms","Monday, Thursday","Afternoon, Morning","Face-to-face, Zoom",4,2,0
+4th Year or above,IT,"AI, Software Quality","Wednesday, Saturday","Night, Evening","Teams, WhatsApp",5,2,1
+3rd Year,SE,"Software Quality, Databases, AI","Monday, Tuesday, Thursday","Morning, Afternoon","Teams, Zoom",4,3,1
+1st Year,Engineering,"AI, Research, Networking","Wednesday, Tuesday, Saturday",Afternoon,"Zoom, Face-to-face",3,2,2
+2nd Year,Business,"Research, Algorithms","Sunday, Saturday, Wednesday","Afternoon, Night",Telegram,5,4,0
+3rd Year,Engineering,Databases,"Monday, Wednesday, Thursday, Tuesday",Morning,"Teams, WhatsApp",2,5,1
+4th Year or above,Engineering,"Algorithms, AI, Software Quality","Sunday, Tuesday, Wednesday, Thursday","Afternoon, Morning","WhatsApp, Teams",2,3,1
+1st Year,SE,"Software Quality, Algorithms, Networking","Wednesday, Sunday, Thursday","Evening, Night",Teams,2,4,2
+1st Year,Engineering,"Software Quality, Databases, Research","Sunday, Saturday, Tuesday, Thursday",Afternoon,"Teams, Telegram",3,2,2
+3rd Year,Engineering,"Algorithms, Databases","Sunday, Saturday",Night,"WhatsApp, Teams",4,3,1
+2nd Year,CS,"Networking, Algorithms","Tuesday, Monday","Morning, Evening",Teams,3,5,0
+2nd Year,SE,Algorithms,"Tuesday, Thursday, Monday, Sunday","Afternoon, Night","Telegram, Zoom",3,4,0
+4th Year or above,SE,"Algorithms, Research","Thursday, Wednesday, Sunday","Afternoon, Morning",Teams,2,5,1
+3rd Year,Engineering,Algorithms,"Monday, Wednesday, Sunday, Thursday","Night, Evening",Telegram,2,3,1
+4th Year or above,CS,Software Quality,"Thursday, Saturday","Afternoon, Night",Teams,3,2,1
+3rd Year,IT,"Algorithms, Databases, Networking","Monday, Wednesday","Afternoon, Evening","Telegram, WhatsApp",2,2,1
+3rd Year,SE,Research,"Saturday, Sunday, Thursday, Monday","Afternoon, Night",WhatsApp,3,5,1
+4th Year or above,IT,Software Quality,"Saturday, Monday, Tuesday, Wednesday",Evening,"WhatsApp, Teams",3,5,1
+2nd Year,IT,"Databases, AI, Research","Thursday, Monday, Sunday","Evening, Night",Teams,2,4,0
+2nd Year,IT,"Algorithms, Databases, Networking","Wednesday, Saturday","Afternoon, Evening","Telegram, Zoom",3,2,0
+4th Year or above,IT,"Networking, AI","Monday, Wednesday","Night, Evening","Teams, WhatsApp",3,4,1
+3rd Year,IT,"Databases, Algorithms, AI","Thursday, Sunday, Saturday","Evening, Morning","Telegram, Teams",4,2,1
+4th Year or above,IT,"Research, Networking","Wednesday, Sunday, Monday, Thursday","Evening, Afternoon","Face-to-face, Telegram",3,5,1
+3rd Year,Business,Algorithms,"Saturday, Thursday, Wednesday",Morning,"Teams, Zoom",2,3,1
+4th Year or above,IT,AI,"Sunday, Wednesday","Night, Evening",Face-to-face,3,5,1
+3rd Year,CS,"AI, Research","Saturday, Wednesday","Evening, Night","Zoom, WhatsApp",2,3,1
+4th Year or above,Engineering,"Research, AI","Wednesday, Thursday, Tuesday","Night, Morning",Zoom,2,5,1
+2nd Year,Business,Algorithms,"Sunday, Wednesday, Monday","Evening, Morning",Teams,3,2,0
+2nd Year,SE,Software Quality,"Wednesday, Saturday","Night, Evening",Face-to-face,2,2,0
+3rd Year,Business,"Algorithms, Software Quality, Research","Saturday, Monday, Tuesday","Morning, Afternoon","Face-to-face, Teams",3,3,1
+2nd Year,Business,"AI, Algorithms, Networking","Tuesday, Sunday, Wednesday",Evening,"WhatsApp, Teams",3,4,0
+2nd Year,CS,"Research, AI, Networking","Saturday, Tuesday, Sunday, Wednesday","Morning, Night",WhatsApp,4,3,0
+4th Year or above,Engineering,"AI, Software Quality, Databases","Wednesday, Thursday, Tuesday, Sunday","Evening, Afternoon",WhatsApp,3,5,1
+4th Year or above,Business,"Networking, Databases","Tuesday, Wednesday, Saturday, Thursday","Night, Morning","Face-to-face, WhatsApp",4,3,1
+4th Year or above,IT,"Software Quality, Networking","Monday, Sunday","Night, Evening","Zoom, Face-to-face",4,4,1
+2nd Year,SE,"Research, Software Quality","Wednesday, Thursday, Monday",Night,"Zoom, Face-to-face",4,2,0
+1st Year,CS,"Research, Software Quality","Saturday, Monday, Sunday","Afternoon, Night","Telegram, Teams",2,5,2
+1st Year,Engineering,"Networking, Databases, Research","Thursday, Saturday","Evening, Night",Zoom,2,5,2
+3rd Year,CS,"Databases, Networking, Research","Saturday, Thursday, Monday, Sunday",Afternoon,"Telegram, Face-to-face",3,3,1
+3rd Year,Engineering,"Networking, Software Quality","Sunday, Wednesday, Saturday, Thursday","Evening, Afternoon",Teams,4,2,1
+4th Year or above,Engineering,"Algorithms, AI","Thursday, Wednesday, Tuesday, Saturday",Night,Face-to-face,5,3,1
+2nd Year,IT,"Algorithms, AI, Networking","Thursday, Wednesday","Afternoon, Night",Telegram,5,2,0
+2nd Year,Engineering,Research,"Sunday, Thursday, Saturday","Afternoon, Night","Face-to-face, Teams",4,5,0
+2nd Year,SE,"Research, Databases","Wednesday, Sunday",Night,"Telegram, Teams",4,4,0
+1st Year,Engineering,"Research, Software Quality, Algorithms","Tuesday, Wednesday, Monday","Morning, Afternoon","Teams, Telegram",3,3,2
+3rd Year,Engineering,"Databases, Networking, AI","Sunday, Saturday, Tuesday, Monday",Afternoon,WhatsApp,2,5,1
+3rd Year,Business,Algorithms,"Monday, Saturday",Night,"Telegram, Zoom",4,4,1
+3rd Year,IT,Algorithms,"Tuesday, Saturday, Monday, Thursday","Afternoon, Morning","Telegram, Zoom",4,2,1
+1st Year,CS,"Research, AI, Databases","Thursday, Saturday, Sunday",Night,"Zoom, WhatsApp",4,3,2
+4th Year or above,CS,"Networking, AI, Databases","Saturday, Tuesday, Sunday","Night, Evening","WhatsApp, Telegram",2,3,1
+2nd Year,Business,"Networking, AI","Thursday, Tuesday, Sunday","Evening, Afternoon",Teams,4,3,0
+1st Year,IT,"Databases, Networking","Sunday, Saturday, Wednesday",Evening,"Face-to-face, Zoom",3,3,2
+4th Year or above,SE,"Algorithms, Research","Thursday, Saturday, Sunday",Afternoon,Face-to-face,5,4,1
+1st Year,Engineering,AI,"Saturday, Tuesday, Sunday, Monday","Night, Morning",Face-to-face,5,2,2
+4th Year or above,IT,"Networking, Research","Thursday, Saturday, Monday","Evening, Night",Telegram,4,2,1
+2nd Year,Engineering,AI,"Wednesday, Monday, Saturday",Night,Teams,5,3,0
+2nd Year,Business,"Software Quality, Algorithms","Thursday, Monday, Tuesday","Morning, Night","Face-to-face, Zoom",3,2,0
+1st Year,CS,"Algorithms, Research","Saturday, Thursday, Tuesday",Night,"Zoom, Teams",3,2,2
+1st Year,Business,"AI, Networking, Research","Monday, Saturday",Night,Zoom,2,5,2
+4th Year or above,SE,"Networking, AI, Algorithms","Wednesday, Tuesday, Sunday, Thursday","Afternoon, Night",Face-to-face,3,5,1
+3rd Year,CS,Research,"Sunday, Tuesday, Thursday, Wednesday","Morning, Afternoon","Face-to-face, Teams",5,5,1
+2nd Year,CS,"Networking, Research","Tuesday, Sunday, Wednesday",Night,Face-to-face,5,5,0
+2nd Year,Business,Databases,"Wednesday, Monday","Evening, Morning",WhatsApp,4,5,0
+1st Year,IT,Research,"Sunday, Saturday, Tuesday, Thursday",Evening,"WhatsApp, Zoom",3,2,2
+4th Year or above,SE,"Research, Networking, Software Quality","Saturday, Wednesday","Night, Afternoon","Teams, Face-to-face",4,5,1
+4th Year or above,IT,"Software Quality, Databases, Networking","Wednesday, Thursday, Monday",Afternoon,Teams,5,4,1
+2nd Year,SE,"Networking, Software Quality","Tuesday, Thursday, Wednesday, Sunday","Night, Afternoon",Teams,3,3,0
+4th Year or above,SE,"Algorithms, AI, Research","Sunday, Monday",Night,Zoom,2,3,1
+1st Year,SE,"Software Quality, Databases, AI","Sunday, Saturday, Thursday, Wednesday","Morning, Night","WhatsApp, Face-to-face",4,4,2
+1st Year,Engineering,"Algorithms, Software Quality, Networking","Monday, Saturday",Afternoon,Face-to-face,4,4,2
+3rd Year,Business,Databases,"Thursday, Saturday, Tuesday",Evening,WhatsApp,2,5,1
+4th Year or above,Business,"Software Quality, AI, Research","Tuesday, Monday, Thursday, Sunday","Morning, Evening",Zoom,3,5,1
+3rd Year,IT,Algorithms,"Saturday, Sunday, Monday",Evening,Zoom,3,5,1
+1st Year,CS,Research,"Saturday, Thursday","Night, Evening",WhatsApp,4,2,2
+1st Year,Business,AI,"Saturday, Sunday, Thursday","Morning, Evening","Telegram, Face-to-face",3,4,2
+4th Year or above,Business,Algorithms,"Sunday, Thursday, Monday, Wednesday","Afternoon, Evening",WhatsApp,4,3,1
+4th Year or above,SE,"Software Quality, Databases, Research","Monday, Sunday","Night, Afternoon","WhatsApp, Zoom",2,3,1
+4th Year or above,Business,"Research, Algorithms, Software Quality","Monday, Sunday","Morning, Evening","Telegram, WhatsApp",4,5,1
+4th Year or above,IT,"Research, Networking, Algorithms","Thursday, Tuesday, Saturday, Sunday","Evening, Afternoon",WhatsApp,3,5,1
+3rd Year,Business,"Software Quality, AI","Wednesday, Tuesday, Thursday",Night,Zoom,4,2,1
+4th Year or above,CS,"Software Quality, Databases, Algorithms","Thursday, Saturday, Tuesday","Evening, Night",Telegram,4,3,1
+4th Year or above,CS,"Algorithms, Software Quality","Tuesday, Wednesday, Thursday, Sunday","Evening, Morning",Face-to-face,3,2,1
+4th Year or above,SE,"Databases, AI","Sunday, Thursday, Tuesday","Afternoon, Night",Telegram,5,2,1
+4th Year or above,Engineering,"Research, Software Quality","Saturday, Thursday, Monday, Tuesday",Morning,Teams,3,2,1
+4th Year or above,CS,"AI, Algorithms","Wednesday, Tuesday",Night,"Telegram, Face-to-face",3,4,1
+1st Year,Business,Databases,"Monday, Sunday, Tuesday","Evening, Afternoon","Zoom, Telegram",4,5,2
+1st Year,Business,"Algorithms, Software Quality, Databases","Wednesday, Monday",Morning,"WhatsApp, Zoom",3,3,2
+2nd Year,CS,"Software Quality, Algorithms, Networking","Sunday, Tuesday, Saturday","Night, Morning",Telegram,5,5,0
+1st Year,SE,Databases,"Monday, Saturday, Sunday, Wednesday",Evening,"Zoom, Telegram",2,4,2
+4th Year or above,Engineering,"Databases, Research, Software Quality","Thursday, Saturday, Monday, Tuesday","Night, Evening",Teams,2,3,1
+3rd Year,IT,Databases,"Tuesday, Wednesday",Night,"Face-to-face, Zoom",5,5,1
+2nd Year,Business,"Research, Networking, Algorithms","Wednesday, Tuesday, Saturday","Night, Evening",Teams,2,5,0
+2nd Year,SE,"Research, Algorithms","Thursday, Sunday, Saturday, Tuesday","Night, Morning",Face-to-face,2,3,0
+3rd Year,IT,"Networking, Research","Tuesday, Thursday, Saturday",Morning,"Face-to-face, Teams",2,5,1
+2nd Year,Business,Algorithms,"Tuesday, Wednesday, Monday, Sunday","Evening, Morning","WhatsApp, Zoom",3,4,0
+4th Year or above,SE,"Networking, Algorithms, Research","Saturday, Wednesday","Afternoon, Night","Teams, Face-to-face",2,3,1
+4th Year or above,IT,"Algorithms, Networking","Tuesday, Sunday, Saturday, Wednesday","Afternoon, Evening","Telegram, Zoom",4,5,1
+4th Year or above,Business,Algorithms,"Thursday, Saturday","Evening, Afternoon","Teams, WhatsApp",2,5,1
+3rd Year,IT,"Software Quality, Networking, Algorithms","Thursday, Wednesday","Evening, Afternoon",Face-to-face,5,4,1
+1st Year,IT,Algorithms,"Monday, Sunday, Tuesday","Night, Morning","Zoom, Face-to-face",4,3,2
+3rd Year,IT,"Databases, Algorithms, AI","Sunday, Tuesday, Monday","Evening, Night",Telegram,2,2,1
+1st Year,SE,"AI, Networking","Tuesday, Saturday, Thursday, Monday",Evening,Telegram,3,5,2
+1st Year,SE,"AI, Algorithms","Wednesday, Sunday","Afternoon, Night",Zoom,2,2,2
+2nd Year,Business,"Algorithms, Networking","Sunday, Tuesday, Thursday, Wednesday","Afternoon, Morning",Zoom,2,5,0
+3rd Year,Business,"Networking, Algorithms","Sunday, Monday, Tuesday","Morning, Evening","Zoom, Face-to-face",5,4,1
+1st Year,SE,"Software Quality, AI","Thursday, Saturday",Morning,"Teams, Zoom",5,5,2
+3rd Year,Engineering,"Networking, Software Quality, AI","Saturday, Monday",Evening,WhatsApp,2,5,1
+3rd Year,Engineering,"Software Quality, Algorithms","Sunday, Saturday",Evening,Teams,2,3,1
+2nd Year,Engineering,"Software Quality, Research","Sunday, Monday, Wednesday, Thursday","Afternoon, Morning",WhatsApp,5,2,0
+4th Year or above,Engineering,"AI, Databases, Networking","Monday, Tuesday",Afternoon,"Teams, Face-to-face",3,4,1
+2nd Year,CS,"AI, Algorithms, Databases","Wednesday, Saturday, Monday","Morning, Afternoon","Face-to-face, Teams",2,5,0
+2nd Year,CS,Databases,"Saturday, Monday",Morning,WhatsApp,3,2,0
+4th Year or above,CS,"Networking, Algorithms","Saturday, Thursday",Evening,Telegram,4,4,1
+1st Year,Engineering,"AI, Research","Monday, Tuesday, Saturday, Wednesday",Night,Telegram,4,4,2
+3rd Year,IT,"Software Quality, AI, Databases","Wednesday, Saturday","Afternoon, Night","Face-to-face, Telegram",3,3,1
+2nd Year,IT,"AI, Networking","Wednesday, Monday, Sunday, Saturday","Evening, Morning",Face-to-face,3,5,0
+4th Year or above,IT,Algorithms,"Monday, Sunday, Tuesday","Evening, Afternoon",Face-to-face,2,3,1
+4th Year or above,IT,"Research, AI, Software Quality","Tuesday, Sunday, Wednesday, Saturday","Night, Evening","Teams, Telegram",4,3,1
+1st Year,SE,Research,"Tuesday, Monday",Night,"Teams, Telegram",2,4,2
+2nd Year,Business,"Software Quality, Databases","Monday, Tuesday","Morning, Night","Zoom, WhatsApp",3,4,0
+4th Year or above,Engineering,Algorithms,"Wednesday, Tuesday, Monday","Night, Evening",WhatsApp,5,2,1
+2nd Year,IT,AI,"Tuesday, Sunday","Evening, Night",Face-to-face,4,2,0
+1st Year,IT,Algorithms,"Tuesday, Monday, Wednesday",Morning,"WhatsApp, Zoom",5,5,2
+4th Year or above,IT,"Algorithms, Software Quality","Wednesday, Tuesday",Evening,"Telegram, Zoom",2,3,1
+3rd Year,Business,"Research, Software Quality","Monday, Wednesday","Afternoon, Night",Face-to-face,3,2,1
+4th Year or above,CS,"Research, Software Quality","Saturday, Sunday, Wednesday","Evening, Morning",Teams,3,2,1
+3rd Year,IT,"Research, Databases","Tuesday, Sunday, Monday, Thursday",Evening,Zoom,5,4,1
+2nd Year,SE,Research,"Sunday, Wednesday, Monday","Afternoon, Evening",Telegram,4,3,0
+4th Year or above,IT,AI,"Saturday, Tuesday",Night,Teams,3,3,1
+3rd Year,SE,"AI, Algorithms","Saturday, Tuesday",Evening,Teams,5,2,1
+3rd Year,CS,"Networking, Algorithms","Thursday, Sunday, Wednesday, Monday","Afternoon, Evening",Telegram,4,4,1
+2nd Year,SE,"AI, Research, Software Quality","Monday, Tuesday, Wednesday, Thursday",Morning,"Zoom, Teams",2,3,0
+3rd Year,CS,Algorithms,"Sunday, Wednesday","Morning, Afternoon",Zoom,2,4,1
+3rd Year,IT,"AI, Algorithms, Software Quality","Sunday, Thursday, Tuesday","Night, Afternoon","Face-to-face, Telegram",2,5,1
+2nd Year,SE,"AI, Algorithms","Monday, Wednesday, Saturday",Morning,"Zoom, Telegram",3,2,0
+1st Year,CS,"Research, Software Quality, AI","Sunday, Tuesday, Thursday",Morning,Teams,3,3,2
+4th Year or above,Engineering,"Algorithms, Research, Databases","Wednesday, Sunday, Tuesday, Monday",Night,"Zoom, WhatsApp",4,2,1
+4th Year or above,IT,"Algorithms, Research","Tuesday, Monday, Saturday",Afternoon,"WhatsApp, Telegram",2,4,1
+4th Year or above,Business,"Algorithms, Databases","Sunday, Saturday","Afternoon, Night","Teams, Zoom",5,2,1
+3rd Year,Business,"Databases, Networking","Saturday, Monday, Tuesday",Morning,"Face-to-face, Telegram",3,2,1
+4th Year or above,Engineering,"Research, Software Quality","Tuesday, Thursday, Wednesday, Monday","Morning, Evening",WhatsApp,5,3,1
+2nd Year,SE,Networking,"Thursday, Monday","Afternoon, Evening",Face-to-face,4,4,0
+1st Year,IT,"Research, Software Quality","Wednesday, Sunday, Thursday, Monday","Morning, Afternoon",Zoom,2,2,2
+1st Year,CS,"Databases, Software Quality, Algorithms","Sunday, Thursday, Saturday",Afternoon,"Telegram, Zoom",5,2,2
+4th Year or above,CS,"Networking, AI, Software Quality","Wednesday, Monday, Sunday","Evening, Afternoon","WhatsApp, Zoom",3,4,1
+4th Year or above,CS,"Algorithms, Software Quality","Sunday, Monday, Tuesday, Thursday",Night,"Face-to-face, Teams",2,3,1
+1st Year,CS,"Research, Software Quality, Networking","Saturday, Monday, Tuesday, Sunday",Morning,WhatsApp,5,2,2
+3rd Year,SE,"Databases, Software Quality","Thursday, Monday, Saturday, Sunday","Night, Evening","Zoom, Telegram",4,4,1
+2nd Year,CS,"Algorithms, AI, Databases","Thursday, Monday",Afternoon,Zoom,3,4,0
+4th Year or above,Engineering,Algorithms,"Thursday, Tuesday",Morning,Teams,4,4,1
+4th Year or above,Business,"Software Quality, Databases","Thursday, Wednesday","Morning, Night","Face-to-face, Teams",4,2,1
+4th Year or above,IT,"Databases, Algorithms","Wednesday, Sunday, Tuesday",Afternoon,Face-to-face,5,4,1
+2nd Year,IT,"Software Quality, Databases, Research","Thursday, Sunday, Monday",Evening,Face-to-face,5,4,0
+3rd Year,SE,"Research, Networking, Databases","Thursday, Tuesday","Afternoon, Evening","WhatsApp, Zoom",4,3,1
+3rd Year,Business,"Databases, Algorithms","Wednesday, Thursday, Monday, Tuesday",Morning,"Zoom, WhatsApp",5,4,1
+4th Year or above,IT,Networking,"Wednesday, Thursday","Afternoon, Night",WhatsApp,5,4,1
+2nd Year,CS,"AI, Algorithms, Software Quality","Tuesday, Sunday, Saturday","Morning, Night","Telegram, Face-to-face",5,5,0
+4th Year or above,IT,Research,"Sunday, Wednesday",Evening,WhatsApp,2,3,1
+2nd Year,CS,"Networking, AI","Saturday, Sunday, Wednesday",Morning,Teams,4,5,0
+3rd Year,Business,"Networking, Databases, Software Quality","Tuesday, Sunday, Thursday",Afternoon,Zoom,3,2,1
+2nd Year,IT,"Algorithms, AI","Sunday, Wednesday, Monday",Morning,WhatsApp,2,5,0
+4th Year or above,Business,Research,"Thursday, Tuesday, Saturday",Evening,"WhatsApp, Teams",3,5,1
+1st Year,Engineering,"Research, AI, Databases","Monday, Thursday",Afternoon,"Face-to-face, Zoom",4,5,2
+3rd Year,SE,Research,"Tuesday, Thursday, Wednesday",Morning,WhatsApp,2,5,1
+2nd Year,IT,"AI, Algorithms, Databases","Tuesday, Thursday, Wednesday, Sunday","Morning, Night",WhatsApp,4,4,0
+3rd Year,Business,"AI, Algorithms, Research","Tuesday, Sunday","Evening, Afternoon","WhatsApp, Teams",4,3,1
+1st Year,Business,"Software Quality, Databases","Sunday, Thursday, Saturday",Morning,WhatsApp,3,2,2
+4th Year or above,Engineering,"Research, Software Quality","Saturday, Thursday","Morning, Evening",Telegram,5,2,1
+4th Year or above,Business,AI,"Sunday, Wednesday, Monday",Evening,Telegram,3,5,1
+3rd Year,Business,Research,"Monday, Sunday, Tuesday, Wednesday","Night, Morning",Telegram,4,3,1
+3rd Year,CS,Research,"Saturday, Thursday","Afternoon, Morning","Telegram, Face-to-face",2,5,1
+4th Year or above,CS,Software Quality,"Sunday, Monday, Saturday, Tuesday","Morning, Evening",WhatsApp,4,3,1
+4th Year or above,CS,"AI, Networking","Wednesday, Saturday, Thursday","Night, Morning",Zoom,2,4,1
+3rd Year,CS,"Research, Databases, AI","Tuesday, Thursday",Night,Teams,3,3,1
+1st Year,Business,Software Quality,"Sunday, Wednesday",Night,Face-to-face,2,5,2
+4th Year or above,Engineering,"Networking, Software Quality, AI","Sunday, Monday, Thursday, Wednesday","Afternoon, Evening",Zoom,2,5,1
+3rd Year,Engineering,"Software Quality, Research","Tuesday, Wednesday, Thursday, Sunday","Night, Morning",Telegram,4,4,1
+2nd Year,SE,Research,"Wednesday, Sunday, Tuesday, Saturday",Evening,Teams,5,5,0
+3rd Year,Business,Research,"Monday, Thursday",Morning,Zoom,4,3,1
+3rd Year,CS,AI,"Wednesday, Tuesday, Monday, Saturday","Morning, Evening",Face-to-face,5,3,1
+3rd Year,IT,"Software Quality, Algorithms","Wednesday, Saturday, Monday, Thursday","Afternoon, Evening","Zoom, Teams",3,3,1
+3rd Year,Business,Algorithms,"Tuesday, Sunday",Night,Telegram,4,4,1
+2nd Year,SE,"Databases, AI, Algorithms","Sunday, Tuesday, Monday",Evening,Face-to-face,4,5,0
+3rd Year,IT,"Databases, Research, Networking","Saturday, Monday",Night,"WhatsApp, Teams",3,3,1
+3rd Year,CS,"Databases, Networking","Saturday, Thursday, Monday, Sunday","Night, Morning",WhatsApp,4,5,1
+1st Year,Business,"Research, Databases","Saturday, Wednesday","Night, Morning","Zoom, Teams",2,2,2
+2nd Year,Engineering,"AI, Algorithms, Networking","Sunday, Tuesday, Thursday, Monday",Night,Zoom,2,5,0
+3rd Year,IT,AI,"Tuesday, Wednesday",Afternoon,"Telegram, Face-to-face",5,5,1
+4th Year or above,CS,Software Quality,"Monday, Saturday, Sunday, Wednesday",Morning,Teams,2,4,1
+3rd Year,Engineering,Databases,"Thursday, Sunday, Monday","Afternoon, Evening",Zoom,5,4,1
+2nd Year,CS,"Algorithms, Databases, AI","Saturday, Tuesday, Monday, Thursday",Night,Teams,3,4,0
+2nd Year,Business,"Research, Networking, Algorithms","Tuesday, Saturday","Afternoon, Morning",Face-to-face,2,5,0
+1st Year,CS,"AI, Databases, Algorithms","Sunday, Saturday","Evening, Afternoon",Zoom,2,4,2
+1st Year,SE,"Software Quality, Algorithms","Saturday, Wednesday, Tuesday","Evening, Afternoon",WhatsApp,4,3,2
+2nd Year,Business,"Databases, Networking","Sunday, Wednesday, Thursday, Tuesday","Evening, Afternoon","Face-to-face, WhatsApp",3,2,0
+3rd Year,SE,"Networking, Databases, AI","Monday, Sunday, Saturday, Wednesday","Afternoon, Morning","Face-to-face, Telegram",3,4,1
+4th Year or above,SE,"Algorithms, Databases, Networking","Saturday, Sunday, Monday","Evening, Night",Zoom,3,3,1
+4th Year or above,SE,Research,"Sunday, Tuesday, Thursday, Saturday",Afternoon,"Zoom, WhatsApp",4,4,1
+2nd Year,IT,"Networking, Research, Databases","Thursday, Sunday, Monday",Evening,Face-to-face,4,4,0
+2nd Year,Business,"Software Quality, Databases, AI","Wednesday, Thursday, Tuesday, Sunday","Evening, Afternoon","Telegram, WhatsApp",3,5,0
+2nd Year,SE,Research,"Wednesday, Tuesday, Saturday, Monday",Evening,Zoom,5,4,0
+1st Year,Business,"Software Quality, Algorithms, Networking","Tuesday, Thursday, Monday, Saturday",Afternoon,Zoom,2,3,2
+1st Year,SE,"Networking, Research","Saturday, Sunday, Monday","Morning, Night","Face-to-face, Telegram",5,3,2
+2nd Year,Business,"Networking, Research, Algorithms","Sunday, Saturday, Wednesday, Monday","Night, Evening",Zoom,5,5,0
+2nd Year,IT,Networking,"Saturday, Thursday, Tuesday, Wednesday",Afternoon,"Face-to-face, WhatsApp",2,2,0
+4th Year or above,SE,"Research, AI, Software Quality","Thursday, Wednesday, Monday, Saturday","Afternoon, Night","Teams, WhatsApp",5,3,1
+3rd Year,Business,AI,"Saturday, Sunday, Thursday","Afternoon, Morning",Face-to-face,2,2,1
+4th Year or above,SE,"Databases, Software Quality, Algorithms","Tuesday, Thursday","Evening, Night","Face-to-face, Teams",4,5,1
+2nd Year,Business,"Research, Software Quality, Networking","Saturday, Sunday, Thursday","Evening, Night","Telegram, Zoom",2,3,0
+4th Year or above,SE,Networking,"Thursday, Wednesday, Monday, Sunday","Morning, Night",Telegram,5,2,1
+1st Year,CS,Databases,"Saturday, Monday","Night, Evening","Face-to-face, WhatsApp",3,5,2
+4th Year or above,IT,Algorithms,"Wednesday, Tuesday, Monday, Sunday",Afternoon,Teams,3,2,1
+2nd Year,IT,"Software Quality, Databases","Thursday, Sunday, Tuesday, Wednesday",Morning,Face-to-face,4,4,0
+3rd Year,CS,Research,"Thursday, Sunday",Evening,Telegram,2,2,1
+3rd Year,CS,Research,"Saturday, Sunday, Wednesday","Night, Evening","Zoom, Teams",5,5,1
+1st Year,Business,Databases,"Thursday, Tuesday",Evening,"Teams, WhatsApp",4,3,2
+3rd Year,IT,"Algorithms, Databases","Saturday, Tuesday","Evening, Afternoon",Face-to-face,4,3,1
+2nd Year,Business,"Networking, Algorithms, Research","Tuesday, Sunday, Saturday",Evening,WhatsApp,2,2,0
+4th Year or above,Engineering,Research,"Thursday, Wednesday","Night, Evening","Telegram, Zoom",4,5,1
+2nd Year,Engineering,AI,"Thursday, Sunday, Monday, Wednesday","Night, Evening",Telegram,2,5,0
+3rd Year,IT,Algorithms,"Thursday, Saturday",Evening,"Face-to-face, Teams",3,4,1
+2nd Year,CS,"Research, Databases","Tuesday, Thursday, Saturday",Night,"Teams, Telegram",4,5,0
+2nd Year,Engineering,Research,"Tuesday, Monday, Wednesday, Saturday","Night, Morning",Zoom,5,2,0
+2nd Year,Business,"Networking, Research","Sunday, Wednesday, Thursday, Tuesday","Morning, Afternoon",Zoom,2,3,0
+3rd Year,Business,"AI, Software Quality, Databases","Wednesday, Sunday, Saturday","Morning, Afternoon",Teams,3,3,1
+3rd Year,CS,"Algorithms, Research","Sunday, Thursday, Monday","Evening, Afternoon",Zoom,4,5,1
+4th Year or above,IT,Networking,"Tuesday, Wednesday, Saturday","Evening, Night","Teams, Telegram",4,5,1
+4th Year or above,SE,AI,"Sunday, Tuesday","Morning, Night",Telegram,2,2,1
+1st Year,Business,"AI, Algorithms, Software Quality","Monday, Sunday, Wednesday, Thursday",Morning,"Teams, Zoom",3,4,2
+4th Year or above,SE,Research,"Monday, Sunday","Evening, Afternoon","Face-to-face, Teams",5,3,1
+2nd Year,Engineering,"Software Quality, Research, Algorithms","Sunday, Saturday, Wednesday, Tuesday","Afternoon, Morning","Teams, Face-to-face",5,4,0
+2nd Year,CS,AI,"Tuesday, Wednesday, Saturday, Sunday",Night,"Teams, WhatsApp",5,4,0
+2nd Year,IT,"Databases, Networking, Software Quality","Thursday, Sunday, Tuesday, Monday","Night, Morning","WhatsApp, Telegram",3,4,0
+3rd Year,Engineering,"Software Quality, Networking","Tuesday, Sunday","Morning, Evening","Face-to-face, Telegram",4,5,1
+2nd Year,CS,Networking,"Saturday, Monday",Morning,"Teams, Zoom",5,2,0
+2nd Year,IT,AI,"Tuesday, Wednesday, Thursday","Night, Afternoon","WhatsApp, Teams",2,3,0
+1st Year,CS,"AI, Research","Tuesday, Sunday, Wednesday","Morning, Night",Telegram,5,3,2
+1st Year,SE,"Algorithms, AI","Sunday, Tuesday, Thursday, Saturday","Evening, Morning",Face-to-face,2,4,2
+4th Year or above,CS,Databases,"Sunday, Tuesday",Afternoon,"Teams, WhatsApp",3,4,1
+1st Year,Business,AI,"Saturday, Thursday",Evening,Zoom,3,5,2
+1st Year,Engineering,"Algorithms, AI","Wednesday, Tuesday",Afternoon,"Zoom, Teams",4,5,2
+2nd Year,IT,"Software Quality, Databases, Networking","Monday, Thursday, Saturday","Night, Morning",Face-to-face,4,4,0
+4th Year or above,CS,"Research, Networking, AI","Tuesday, Thursday, Wednesday, Sunday","Night, Morning","Zoom, WhatsApp",4,3,1
+3rd Year,IT,"Research, Software Quality, Networking","Sunday, Thursday, Tuesday, Wednesday","Evening, Afternoon","WhatsApp, Face-to-face",2,2,1
+2nd Year,SE,Networking,"Thursday, Tuesday",Morning,"Telegram, Teams",2,4,0
+2nd Year,Engineering,"AI, Algorithms, Networking","Thursday, Monday, Sunday, Wednesday",Evening,"Teams, WhatsApp",4,2,0
+1st Year,CS,Networking,"Monday, Sunday, Tuesday, Wednesday","Afternoon, Morning",Face-to-face,3,5,2
+1st Year,Engineering,"Algorithms, Software Quality","Sunday, Thursday, Monday, Saturday",Night,"Zoom, Telegram",4,4,2
+3rd Year,CS,"Algorithms, Software Quality","Wednesday, Saturday, Tuesday, Sunday",Night,"Teams, Telegram",5,5,1
+1st Year,IT,"Research, AI","Tuesday, Wednesday, Monday, Sunday",Afternoon,"WhatsApp, Teams",3,2,2
+1st Year,Business,"Networking, Algorithms","Wednesday, Saturday, Tuesday",Evening,"WhatsApp, Telegram",3,2,2
+3rd Year,Business,Software Quality,"Sunday, Saturday, Monday, Wednesday","Morning, Evening","WhatsApp, Face-to-face",4,4,1
+4th Year or above,Business,Networking,"Sunday, Saturday, Monday, Wednesday","Morning, Afternoon",Teams,3,4,1
+2nd Year,SE,Algorithms,"Thursday, Sunday, Monday, Saturday","Evening, Afternoon",Zoom,4,2,0
+4th Year or above,Engineering,"AI, Research, Software Quality","Monday, Thursday, Saturday",Afternoon,"Face-to-face, Zoom",5,5,1
+2nd Year,Engineering,"Algorithms, Research, Networking","Monday, Wednesday","Evening, Night",WhatsApp,5,5,0
+3rd Year,CS,Databases,"Saturday, Monday, Wednesday",Evening,"Face-to-face, Zoom",5,2,1
+2nd Year,SE,"Databases, Networking, AI","Sunday, Monday",Afternoon,"WhatsApp, Teams",2,4,0
+4th Year or above,Business,Databases,"Sunday, Saturday",Afternoon,"Face-to-face, Telegram",3,2,1
+4th Year or above,Engineering,"Research, AI, Databases","Monday, Wednesday",Evening,Telegram,2,2,1
+4th Year or above,CS,"Algorithms, Databases, AI","Wednesday, Thursday",Night,Teams,5,2,1
+2nd Year,SE,"Software Quality, Research, AI","Tuesday, Saturday","Evening, Afternoon","Zoom, WhatsApp",4,4,0
+3rd Year,CS,Research,"Monday, Wednesday, Thursday",Evening,Zoom,4,5,1
+2nd Year,IT,"Software Quality, Research, Networking","Tuesday, Saturday, Sunday","Evening, Night","Telegram, Zoom",3,3,0
+2nd Year,SE,"Algorithms, Research","Thursday, Tuesday",Evening,Face-to-face,2,3,0
+3rd Year,SE,"AI, Databases, Software Quality","Wednesday, Thursday, Sunday",Afternoon,Zoom,3,2,1
+3rd Year,Engineering,"Research, Networking, Algorithms","Sunday, Monday","Morning, Evening","Zoom, Telegram",4,3,1
+4th Year or above,Business,"Networking, Algorithms","Tuesday, Monday","Morning, Afternoon","Zoom, Face-to-face",3,2,1
+2nd Year,Business,"Software Quality, Databases, Algorithms","Thursday, Sunday",Night,"Telegram, WhatsApp",2,5,0
+4th Year or above,IT,Research,"Thursday, Monday, Sunday, Wednesday",Afternoon,"Telegram, Face-to-face",4,4,1
+4th Year or above,SE,"Databases, Research","Sunday, Saturday",Night,"WhatsApp, Face-to-face",3,3,1
+4th Year or above,Business,"Software Quality, AI","Thursday, Saturday",Night,Teams,4,3,1
+1st Year,IT,Algorithms,"Sunday, Wednesday, Monday","Afternoon, Night","WhatsApp, Zoom",4,3,2
+2nd Year,SE,Algorithms,"Thursday, Wednesday","Night, Afternoon",WhatsApp,3,3,0
+1st Year,Engineering,"AI, Software Quality","Thursday, Saturday, Monday","Afternoon, Morning","Telegram, Face-to-face",5,2,2
+1st Year,SE,"Databases, Research, Networking","Tuesday, Sunday",Evening,Zoom,2,4,2
+3rd Year,IT,AI,"Tuesday, Sunday, Wednesday",Night,"WhatsApp, Face-to-face",4,4,1
+3rd Year,Business,Software Quality,"Monday, Wednesday, Thursday, Sunday",Evening,"Face-to-face, Telegram",3,3,1
+1st Year,IT,"Algorithms, Research, AI","Sunday, Saturday, Wednesday","Evening, Afternoon","Zoom, Telegram",5,5,2
+2nd Year,Engineering,Algorithms,"Tuesday, Monday, Saturday",Night,Zoom,5,5,0
+1st Year,CS,"Research, Networking","Sunday, Tuesday","Evening, Morning","Teams, Face-to-face",2,2,2
+3rd Year,CS,"Algorithms, Research","Monday, Tuesday, Saturday, Thursday","Night, Afternoon",Zoom,5,3,1
+4th Year or above,Engineering,"Software Quality, Algorithms","Monday, Saturday, Wednesday, Thursday","Morning, Night","Teams, WhatsApp",3,4,1
+1st Year,CS,"Algorithms, Research","Saturday, Sunday","Afternoon, Evening",Teams,4,2,2
+3rd Year,Business,Software Quality,"Wednesday, Thursday","Afternoon, Evening","Zoom, WhatsApp",4,2,1
+2nd Year,IT,"Research, AI","Saturday, Tuesday, Sunday","Night, Evening","Teams, Zoom",2,3,0
+2nd Year,IT,"Software Quality, Research","Monday, Wednesday",Morning,"Telegram, WhatsApp",2,4,0
+1st Year,Engineering,"Algorithms, Networking","Tuesday, Sunday, Wednesday","Evening, Afternoon",Teams,3,3,2
+3rd Year,IT,Research,"Saturday, Monday, Tuesday, Wednesday","Evening, Afternoon",Teams,3,3,1
+1st Year,CS,"Databases, Research, Software Quality","Tuesday, Monday","Morning, Night","WhatsApp, Face-to-face",5,5,2
+2nd Year,Engineering,"Algorithms, Software Quality, Databases","Wednesday, Tuesday, Monday","Afternoon, Morning","WhatsApp, Telegram",4,5,0
+4th Year or above,SE,Networking,"Wednesday, Sunday, Thursday, Monday","Evening, Afternoon","WhatsApp, Face-to-face",5,2,1
+3rd Year,Business,"Networking, Databases","Saturday, Sunday, Tuesday",Night,Teams,2,4,1
+4th Year or above,Business,"Software Quality, Networking, Research","Tuesday, Thursday, Saturday, Monday","Afternoon, Evening","Telegram, Teams",3,3,1
+1st Year,Engineering,"AI, Research","Thursday, Wednesday, Monday, Tuesday",Evening,"WhatsApp, Face-to-face",5,4,2
+4th Year or above,IT,Networking,"Saturday, Monday",Afternoon,"Face-to-face, Teams",5,5,1
+2nd Year,SE,"Databases, Algorithms, Research","Sunday, Wednesday, Monday",Night,Teams,2,4,0
+1st Year,IT,"Research, Databases, AI","Monday, Tuesday, Thursday","Evening, Night","Telegram, Face-to-face",5,3,2
+2nd Year,Business,Networking,"Thursday, Wednesday, Sunday, Monday","Afternoon, Morning",WhatsApp,2,3,0
+4th Year or above,Business,AI,"Sunday, Thursday","Night, Evening",Telegram,5,5,1
+4th Year or above,CS,Networking,"Saturday, Monday, Thursday",Evening,"Face-to-face, Teams",2,2,1
+4th Year or above,CS,Research,"Sunday, Monday, Tuesday","Night, Evening",Face-to-face,2,3,1
+4th Year or above,IT,"Algorithms, Research, Databases","Monday, Wednesday, Sunday, Tuesday","Night, Evening","Telegram, Teams",4,4,1
+2nd Year,IT,"Research, Databases, Algorithms","Sunday, Thursday",Morning,"Face-to-face, WhatsApp",4,5,0
+1st Year,SE,"AI, Databases, Research","Saturday, Wednesday","Evening, Morning",Face-to-face,3,3,2
+4th Year or above,CS,Databases,"Tuesday, Thursday, Sunday, Wednesday",Evening,Zoom,3,5,1
+4th Year or above,Business,Algorithms,"Sunday, Tuesday, Saturday","Morning, Evening","WhatsApp, Face-to-face",3,5,1
+4th Year or above,Business,"Software Quality, Research","Thursday, Sunday","Evening, Morning","WhatsApp, Teams",5,5,1
+3rd Year,Engineering,"AI, Algorithms, Databases","Saturday, Wednesday, Sunday","Evening, Morning","Face-to-face, Telegram",5,3,1
+2nd Year,Engineering,"Algorithms, Networking","Saturday, Monday, Sunday",Morning,"WhatsApp, Face-to-face",5,4,0
+2nd Year,CS,"Networking, AI","Saturday, Monday",Afternoon,WhatsApp,2,3,0
+4th Year or above,Engineering,AI,"Tuesday, Wednesday, Saturday, Sunday",Night,"Telegram, Teams",4,3,1
+1st Year,CS,Software Quality,"Wednesday, Monday, Sunday","Afternoon, Night",Telegram,3,5,2
+2nd Year,Business,Networking,"Thursday, Tuesday, Monday, Saturday","Morning, Night",WhatsApp,4,5,0
+1st Year,Business,Algorithms,"Monday, Sunday, Thursday, Tuesday",Evening,"Face-to-face, WhatsApp",5,5,2
+4th Year or above,Business,"AI, Research, Networking","Thursday, Sunday",Evening,"Teams, Telegram",2,2,1
+3rd Year,Engineering,"AI, Software Quality","Sunday, Tuesday, Saturday",Night,Teams,5,2,1
+3rd Year,Business,Algorithms,"Sunday, Tuesday, Saturday",Afternoon,Face-to-face,3,5,1
+4th Year or above,IT,"Algorithms, Databases, Software Quality","Thursday, Monday, Saturday, Tuesday",Evening,Telegram,2,3,1
+4th Year or above,Engineering,Algorithms,"Tuesday, Monday, Saturday, Wednesday",Night,Telegram,2,3,1
+2nd Year,IT,Algorithms,"Wednesday, Monday","Afternoon, Evening",WhatsApp,2,5,0
+2nd Year,IT,Software Quality,"Sunday, Thursday, Wednesday",Afternoon,"Zoom, WhatsApp",3,4,0
+1st Year,IT,"Networking, Software Quality","Sunday, Wednesday",Night,Face-to-face,2,3,2
+1st Year,Engineering,"Networking, AI","Monday, Sunday, Saturday",Morning,"Telegram, Face-to-face",3,3,2
+2nd Year,CS,"Software Quality, Algorithms, Networking","Saturday, Monday",Night,Teams,4,5,0
+1st Year,Engineering,Networking,"Saturday, Monday","Afternoon, Night",Teams,2,3,2
+1st Year,SE,"Software Quality, Algorithms, Networking","Sunday, Monday",Evening,"Zoom, Telegram",4,4,2
+4th Year or above,IT,Algorithms,"Saturday, Tuesday",Morning,"Face-to-face, WhatsApp",2,3,1
+4th Year or above,Engineering,"Databases, Software Quality, Networking","Sunday, Wednesday, Tuesday, Monday","Afternoon, Morning",Telegram,3,5,1
+2nd Year,IT,"Research, Software Quality","Thursday, Tuesday",Night,Telegram,4,3,0
+4th Year or above,SE,"Databases, Algorithms, Networking","Tuesday, Monday, Saturday","Afternoon, Morning","Telegram, Face-to-face",3,4,1
+2nd Year,CS,"Networking, Research, Algorithms","Saturday, Tuesday, Monday, Sunday","Afternoon, Evening","Telegram, Teams",2,5,0
+2nd Year,SE,"Software Quality, Research","Saturday, Tuesday",Night,WhatsApp,5,2,0
+4th Year or above,Engineering,"Software Quality, AI","Thursday, Tuesday, Monday",Night,Zoom,4,4,1
+2nd Year,IT,Software Quality,"Wednesday, Tuesday, Thursday, Sunday",Night,"Zoom, Telegram",3,4,0
+4th Year or above,IT,"AI, Software Quality, Databases","Monday, Wednesday, Thursday, Tuesday",Morning,"WhatsApp, Teams",2,2,1
+4th Year or above,CS,"Research, AI","Wednesday, Tuesday, Monday",Afternoon,"Zoom, WhatsApp",5,3,1
+2nd Year,CS,"Databases, Research","Thursday, Wednesday, Monday, Sunday","Evening, Afternoon","Face-to-face, WhatsApp",5,4,0
+4th Year or above,Engineering,"Algorithms, AI","Thursday, Monday",Night,Teams,2,2,1
+2nd Year,CS,Algorithms,"Thursday, Tuesday",Morning,"Telegram, Zoom",5,4,0
+4th Year or above,Business,"Algorithms, AI, Databases","Monday, Sunday",Evening,"Face-to-face, Teams",4,5,1
+4th Year or above,Business,"Research, Networking","Tuesday, Wednesday, Sunday","Evening, Afternoon",Zoom,4,4,1
+4th Year or above,SE,"Networking, Research, Databases","Tuesday, Sunday",Afternoon,WhatsApp,4,3,1
+4th Year or above,CS,"Networking, Algorithms","Sunday, Monday, Wednesday, Tuesday",Evening,"Face-to-face, Zoom",4,2,1
+1st Year,Business,"Networking, Software Quality","Tuesday, Monday, Wednesday","Night, Afternoon",Face-to-face,5,4,2
+1st Year,Business,Networking,"Saturday, Monday, Wednesday, Sunday","Afternoon, Night","WhatsApp, Teams",2,3,2
+2nd Year,CS,AI,"Saturday, Thursday",Night,Telegram,4,2,0
+3rd Year,Business,Algorithms,"Wednesday, Thursday, Sunday",Evening,"Teams, Face-to-face",5,2,1
+2nd Year,Business,"Software Quality, Algorithms, Databases","Sunday, Thursday","Afternoon, Evening",Zoom,3,4,0
+4th Year or above,Engineering,"AI, Research","Monday, Sunday, Thursday","Night, Morning","Face-to-face, Zoom",3,3,1
+4th Year or above,CS,"Software Quality, AI, Databases","Wednesday, Thursday, Saturday, Monday",Morning,Teams,4,5,1
+1st Year,CS,"Networking, Software Quality","Sunday, Tuesday, Monday, Thursday","Night, Morning","Face-to-face, Telegram",5,4,2
+4th Year or above,IT,"Research, Algorithms","Wednesday, Tuesday",Afternoon,"Telegram, Zoom",4,3,1
+1st Year,CS,"Software Quality, Databases","Wednesday, Sunday",Afternoon,WhatsApp,3,4,2
+3rd Year,CS,"Algorithms, Databases","Saturday, Sunday","Afternoon, Morning",Face-to-face,4,4,1
+4th Year or above,Business,"Networking, AI","Tuesday, Saturday",Afternoon,Telegram,5,2,1
+1st Year,SE,Software Quality,"Wednesday, Sunday, Tuesday","Evening, Morning","WhatsApp, Face-to-face",3,3,2
+2nd Year,SE,"Networking, Algorithms","Monday, Thursday",Morning,Telegram,5,2,0
+2nd Year,IT,Algorithms,"Saturday, Monday, Thursday, Sunday","Morning, Night","WhatsApp, Face-to-face",2,3,0
+2nd Year,SE,"Databases, AI, Research","Sunday, Wednesday","Evening, Morning",Face-to-face,2,2,0
+1st Year,Engineering,Algorithms,"Wednesday, Tuesday",Morning,Face-to-face,5,4,2
+2nd Year,Business,"AI, Networking, Databases","Thursday, Tuesday, Saturday","Morning, Afternoon",Telegram,2,3,0
+4th Year or above,CS,"Databases, Research, AI","Wednesday, Thursday",Night,"Telegram, Teams",5,3,1
+4th Year or above,CS,"Networking, AI","Sunday, Wednesday, Tuesday",Night,Telegram,5,2,1
+1st Year,SE,"Software Quality, Research","Sunday, Tuesday",Evening,Teams,3,5,2
+1st Year,SE,"Algorithms, Software Quality","Sunday, Saturday, Wednesday","Evening, Afternoon","Telegram, Teams",3,5,2
+1st Year,IT,"Software Quality, Algorithms","Sunday, Tuesday",Morning,WhatsApp,5,2,2
+2nd Year,Business,"Algorithms, Databases, Networking","Saturday, Sunday, Monday",Night,"Zoom, Teams",5,5,0
+3rd Year,Engineering,"Research, Algorithms","Monday, Thursday",Night,"Teams, Telegram",5,5,1
+1st Year,IT,Research,"Wednesday, Tuesday, Thursday, Saturday",Evening,"Telegram, WhatsApp",5,5,2
+4th Year or above,Engineering,Research,"Thursday, Wednesday","Night, Evening","Teams, Face-to-face",2,2,1
+1st Year,SE,"Databases, Research","Sunday, Wednesday","Morning, Afternoon","Teams, Telegram",4,2,2
+2nd Year,SE,Algorithms,"Saturday, Monday, Sunday","Morning, Afternoon",WhatsApp,4,2,0
+4th Year or above,Business,"Research, Software Quality, Databases","Sunday, Thursday",Evening,"Face-to-face, Telegram",4,2,1
+4th Year or above,IT,"Algorithms, Networking, Databases","Saturday, Wednesday, Tuesday","Evening, Afternoon",Telegram,2,3,1
+3rd Year,CS,Databases,"Thursday, Tuesday, Monday, Wednesday",Evening,"WhatsApp, Telegram",5,3,1
+3rd Year,IT,"Databases, Research, Algorithms","Sunday, Saturday, Wednesday",Night,"Teams, Telegram",3,2,1
+2nd Year,Engineering,"Networking, Software Quality","Sunday, Saturday, Thursday",Afternoon,"Telegram, Zoom",3,3,0
+3rd Year,Business,"Databases, AI","Tuesday, Thursday, Wednesday, Sunday",Evening,Telegram,3,2,1
+2nd Year,SE,Networking,"Thursday, Sunday, Saturday","Morning, Night",Teams,3,2,0
+3rd Year,CS,"Research, Networking, AI","Thursday, Monday, Saturday, Sunday","Evening, Morning","Teams, WhatsApp",5,3,1
+2nd Year,IT,"Algorithms, Research, AI","Sunday, Saturday, Wednesday, Tuesday",Afternoon,Teams,4,5,0
+2nd Year,Business,Networking,"Tuesday, Sunday","Night, Afternoon","Face-to-face, WhatsApp",5,4,0
+1st Year,CS,"Software Quality, Algorithms, Networking","Tuesday, Wednesday, Thursday","Evening, Morning",WhatsApp,3,4,2
+4th Year or above,CS,"Algorithms, Databases, AI","Tuesday, Thursday, Saturday, Monday","Evening, Afternoon",Zoom,4,3,1
+2nd Year,Business,"Databases, Software Quality, AI","Monday, Thursday, Saturday","Evening, Night","WhatsApp, Zoom",4,2,0
+3rd Year,Business,"Algorithms, Research, Databases","Sunday, Monday, Saturday",Night,WhatsApp,5,3,1
+3rd Year,CS,"AI, Algorithms, Networking","Saturday, Tuesday","Evening, Afternoon","Zoom, Teams",3,4,1
+3rd Year,SE,Software Quality,"Tuesday, Thursday, Saturday",Morning,Face-to-face,3,2,1
+4th Year or above,SE,"Algorithms, Networking","Thursday, Saturday","Evening, Morning",Teams,3,2,1
+1st Year,Engineering,"Software Quality, Algorithms","Tuesday, Sunday",Evening,"Telegram, Face-to-face",3,5,2
+2nd Year,Engineering,Databases,"Sunday, Tuesday, Thursday, Monday","Afternoon, Morning","Teams, Zoom",5,3,0
+3rd Year,Engineering,"Algorithms, Software Quality, AI","Thursday, Tuesday","Night, Evening",Telegram,5,4,1
+1st Year,IT,"AI, Algorithms, Databases","Thursday, Wednesday",Morning,"Face-to-face, Telegram",4,5,2
+3rd Year,SE,"AI, Research, Networking","Tuesday, Saturday, Thursday","Night, Morning",Teams,5,3,1
+3rd Year,IT,"AI, Networking","Wednesday, Sunday, Thursday","Evening, Night","Face-to-face, Teams",5,3,1
+3rd Year,Business,Research,"Sunday, Thursday, Monday, Saturday",Morning,Zoom,2,5,1
+3rd Year,SE,"Software Quality, Algorithms, AI","Monday, Thursday, Wednesday","Night, Afternoon",Zoom,2,4,1
+1st Year,SE,"Networking, Algorithms","Saturday, Wednesday, Tuesday, Sunday",Afternoon,"WhatsApp, Zoom",5,2,2
+3rd Year,IT,"Algorithms, AI","Wednesday, Saturday, Monday","Afternoon, Morning",Telegram,5,5,1
+3rd Year,Engineering,"AI, Databases, Algorithms","Saturday, Thursday, Wednesday, Sunday",Afternoon,Teams,4,2,1
+1st Year,Engineering,"Software Quality, AI, Algorithms","Tuesday, Sunday, Thursday",Morning,Zoom,5,5,2
+3rd Year,SE,Databases,"Thursday, Wednesday, Tuesday","Morning, Afternoon",Telegram,5,5,1
+4th Year or above,CS,"Research, Software Quality, AI","Wednesday, Saturday, Tuesday","Night, Morning",Face-to-face,4,5,1
+2nd Year,SE,"Research, Algorithms","Wednesday, Thursday","Morning, Afternoon","Zoom, Face-to-face",4,3,0
+4th Year or above,CS,"AI, Research, Algorithms","Saturday, Monday","Night, Morning","Face-to-face, Teams",4,4,1
+1st Year,Engineering,AI,"Sunday, Thursday, Tuesday, Monday","Morning, Night","Teams, Face-to-face",5,5,2
+3rd Year,CS,Networking,"Monday, Saturday","Morning, Afternoon",WhatsApp,5,2,1
+1st Year,SE,"Software Quality, Algorithms, Research","Sunday, Saturday, Thursday, Tuesday","Night, Afternoon",Zoom,3,2,2
+2nd Year,IT,Algorithms,"Monday, Tuesday","Afternoon, Evening",Telegram,3,2,0
+3rd Year,Business,Software Quality,"Monday, Sunday, Tuesday",Night,"Telegram, WhatsApp",5,3,1
+2nd Year,CS,"Software Quality, AI, Databases","Monday, Thursday","Night, Evening","WhatsApp, Telegram",5,5,0
+4th Year or above,SE,"AI, Research, Algorithms","Saturday, Wednesday, Monday","Night, Afternoon",Telegram,4,5,1
+4th Year or above,IT,Databases,"Tuesday, Thursday, Wednesday, Sunday",Afternoon,"Face-to-face, Telegram",3,4,1
+4th Year or above,Business,"Algorithms, Databases, Software Quality","Saturday, Tuesday","Morning, Evening","Zoom, Face-to-face",3,3,1
+4th Year or above,IT,"Software Quality, Databases","Tuesday, Saturday",Morning,"Teams, Face-to-face",3,3,1
