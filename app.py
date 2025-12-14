@@ -9,14 +9,10 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 from preprocessing import preprocess
 
-# ==================================================
-# PAGE CONFIG
-# ==================================================
+
 st.set_page_config(page_title="AI Study Group Matching", layout="wide")
 
-# ==================================================
-# UI POLISH (SAFE – NO LOGIC CHANGE)
-# ==================================================
+
 st.markdown("""
 <style>
 
@@ -57,56 +53,22 @@ div[data-testid="stStatusWidget"] {
     padding: 2rem;
     border-radius: 16px;
 }
- .chat-container {
-    max-height: 300px;
-    overflow-y: auto;
-    padding: 10px;
-    background: #f9fafb;
-    border-radius: 10px;
-    margin-bottom: 10px;
-}
 
-.chat-bubble {
-    padding: 8px 12px;
-    border-radius: 14px;
-    margin-bottom: 8px;
-    max-width: 70%;
-    font-size: 0.9rem;
-    line-height: 1.4;
-}
-
-.chat-you {
-    background-color: #DCF8C6;
-    margin-left: auto;
-    text-align: right;
-}
-
-.chat-other {
-    background-color: #E5E7EB;
-    margin-right: auto;
-    text-align: left;
 
 </style>
 """, unsafe_allow_html=True)
 
 
-# ==================================================
-# LOAD MODEL ARTIFACTS
-# ==================================================
 kmeans = joblib.load("kmeans_model.pkl")
 scaler = joblib.load("scaler.pkl")
 features = joblib.load("features.pkl")
 
-# ==================================================
-# SESSION STATE
-# ==================================================
+
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
     st.session_state.role = None
 
-# ==================================================
-# AUTHENTICATION (DEMO)
-# ==================================================
+
 if not st.session_state.logged_in:
 
     st.markdown(
@@ -175,9 +137,6 @@ def calculate_matching_score(student, group):
 
     return int((score / total) * 100)
 
-# ==================================================
-# HOME
-# ==================================================
 # ==================================================
 # HOME
 # ==================================================
