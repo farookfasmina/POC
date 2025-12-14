@@ -57,6 +57,34 @@ div[data-testid="stStatusWidget"] {
     padding: 2rem;
     border-radius: 16px;
 }
+ .chat-container {
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 10px;
+    background: #f9fafb;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.chat-bubble {
+    padding: 8px 12px;
+    border-radius: 14px;
+    margin-bottom: 8px;
+    max-width: 70%;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+.chat-you {
+    background-color: #DCF8C6;
+    margin-left: auto;
+    text-align: right;
+}
+
+.chat-other {
+    background-color: #E5E7EB;
+    margin-right: auto;
+    text-align: left;
 
 </style>
 """, unsafe_allow_html=True)
@@ -188,7 +216,6 @@ if page == "Home":
     st.markdown('</div>', unsafe_allow_html=True)
 
 
-
 # ==================================================
 # STUDENT MATCHING
 # ==================================================
@@ -203,9 +230,8 @@ if page == "Student Matching":
     )
     st.markdown('</div>', unsafe_allow_html=True)
 
-    # Progress (PATCHED TEXT)
+    # Progress
     st.progress(0.6, text="Preference Selection in Progress")
-
 
     year = st.selectbox("Year of Study", ['1st Year','2nd Year','3rd Year','4th Year or above'])
     program = st.selectbox("Academic Program", ['IT','SE','CS','Business','Engineering'])
@@ -222,9 +248,15 @@ if page == "Student Matching":
 
     GROUP_SIZE = 2 if group_type.startswith("Buddy") else 4 if group_type.startswith("Small") else 6
 
+    # Initialize chat state safely
+    if "chat" not in st.session_state:
+        st.session_state.chat = []
+
     if st.button("🔍 Generate Optimal Study Group", use_container_width=True):
 
-        # PATCH: validation
+        # Reset chat when new group is generated
+        st.session_state.chat = []
+
         if not subjects:
             st.warning("Please select at least one subject to generate a meaningful match.")
             st.stop()
@@ -247,9 +279,6 @@ if page == "Student Matching":
         cluster = int(kmeans.predict(scaler.transform(X_student))[0])
 
         st.success(f"✅ Assigned to Cluster {cluster}")
-        st.caption(
-            "A cluster represents students with similar academic interests and availability patterns."
-        )
         st.metric("Selected Group Size", f"{GROUP_SIZE} Students")
 
         df = pd.read_csv("synthetic_students.csv")
@@ -262,10 +291,10 @@ if page == "Student Matching":
         )
 
         group = pd.concat([group, student], ignore_index=True)
+
         st.subheader("📌 Your Study Group")
         st.dataframe(group)
 
-        # PATCH: download
         st.download_button(
             "⬇️ Download My Study Group (CSV)",
             group.to_csv(index=False),
@@ -278,7 +307,6 @@ if page == "Student Matching":
         st.progress(score / 100)
         st.metric("Matching Score", f"{score}%")
 
-        # PATCH: quality label
         if score >= 80:
             st.success("🟢 High Compatibility Group")
         elif score >= 50:
@@ -286,8 +314,50 @@ if page == "Student Matching":
         else:
             st.warning("🔴 Low Compatibility – consider adjusting preferences")
 
-        # Visualization
+        # ================================
+        # 🧠 WHY THIS GROUP? (AI EXPLANATION)
+        # ================================
+        st.subheader("🧠 Why this group?")
+
+        reasons = []
+
+        if any(s in ", ".join(group["Subjects"]) for s in subjects):
+            reasons.append("📘 Shared academic subjects with group members")
+
+        if any(t in ", ".join(group["Time_Slots"]) for t in times):
+            reasons.append("⏰ Compatible study time availability")
+
+        if any(c in ", ".join(group["Communication_Methods"]) for c in comms):
+            reasons.append("💬 Preferred communication methods match")
+
+        if year in group["Year_of_Study"].values:
+            reasons.append("🎓 Similar academic year among group members")
+
+        reasons.append(f"👥 Matches your preferred group size ({GROUP_SIZE} students)")
+        reasons.append(f"🧠 AI clustering placed you in Cluster {cluster}")
+
+        for r in reasons:
+            st.write("•", r)
+
+        # ================================
+        # 💬 MOCK REAL-TIME GROUP CHAT
+        # ================================
+        st.subheader("💬 Group Chat (Prototype)")
+
+        msg = st.text_input("Type a message")
+
+        if st.button("Send"):
+            if msg:
+                st.session_state.chat.append(("You", msg))
+
+        for sender, message in st.session_state.chat:
+            st.markdown(f"**{sender}:** {message}")
+
+        # ================================
+        # 📊 CLUSTER VISUALIZATION
+        # ================================
         st.subheader("📊 Cluster Visualization")
+
         pca = PCA(n_components=2)
         X_pca = pca.fit_transform(scaler.transform(X_all))
         student_pca = pca.transform(scaler.transform(X_student))
@@ -298,21 +368,6 @@ if page == "Student Matching":
         ax.legend(*scatter.legend_elements(), title="Clusters")
         ax.legend()
         st.pyplot(fig)
-
-        st.subheader("💬 Group Chat (Prototype)")
-
-if "chat" not in st.session_state:
-    st.session_state.chat = []
-
-msg = st.text_input("Type a message")
-
-if st.button("Send"):
-    if msg:
-        st.session_state.chat.append(("You", msg))
-
-for sender, message in st.session_state.chat:
-    st.markdown(f"**{sender}:** {message}")
-
 
 
 # ==================================================
